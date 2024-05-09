@@ -17,4 +17,5 @@ libraries used:
 
 ideas to implement:
     maybe twitter sentiment to factor into labeling
+    front end to make user input process smoother
     add more...
