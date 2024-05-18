@@ -18,6 +18,8 @@ libraries used:
     pandas
 
 ideas to implement:
+    - make a "what-if" generator of if money(a user inputted value) was invested on each predicted good day
+    - output prediction for next day, week, month, quarter, and year
     - maybe twitter sentiment to factor into labeling
     - front end to make user input process smoother
     - make index ambiguous
@@ -26,3 +28,6 @@ ideas to implement:
     - add maybe key stocks or sector information
     - increase/decrease resolution: monthly, hourly data, tick data, minute data
     add more...
+
+
+fix horizon back to 1000 from 500
