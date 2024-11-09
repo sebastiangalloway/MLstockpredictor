@@ -1,7 +1,6 @@
 README in progress...
 
 Project ToDo:
-    
 
 Sources used:
     https://www.youtube.com/watch?v=1O_BenficgE
@@ -22,9 +21,9 @@ ideas to implement:
     - output prediction for next day, week, month, quarter, and year
     - maybe twitter sentiment to factor into labeling
     - front end to make user input process smoother
-    - make index ambiguous
-    - look for indexes that are oprn over night
-    - add new updates like interest rates
+    - make completely stock/index ambiguous
+    - adjust for stocks/index that are open over night
+    - include current interest rates in prediction parameters
     - add maybe key stocks or sector information
     - increase/decrease resolution: monthly, hourly data, tick data, minute data
     add more...
